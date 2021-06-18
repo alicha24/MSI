@@ -1,0 +1,87 @@
+.btn2{
+    margin-top: -52px;
+}
+.Solu{
+    width: 1349px;
+    margin-top: 142px;
+}
+.a5{
+    margin: 0 0 0 212px;
+}
+.a6{
+    margin: 15px 0 0 289px;;
+}
+.btn3{
+    margin: -103px 0 0 355px;
+}
+.a7{
+    margin: -476px 0 0 0;
+    width: 1349px;
+}
+.a8{
+    width: 1245px;
+}
+.A8{
+    margin: -409px 0 0 34px;
+
+}
+.btn4{
+    margin: -471px 0 0 0;
+}
+.bac{
+    margin: -444px 0 0 0;
+}
+header nav .contaner .all ul{
+    margin: -37px 0 0 544px;
+}
+nav .contaner .svg {
+    margin: 24px 0 0 310px;
+}
+@media (max-width: 1200px) {
+    .Solu {
+        width: 483px;
+        margin-top: 174px;
+    }
+    .a5 {
+        margin: 0 0 0 0;
+        width: 629px;
+    }
+    .a6 {
+        width: 441px;
+        margin: 15px 0 0 0;
+    }
+    .a5 {
+        margin: 0 0 0 0;
+        width: 441px;
+    }
+    .a7 {
+        margin: -352px  0 0 0;
+        width: 489px;
+    }
+    .a8 {
+        width: 645px;
+    }
+    .A8 {
+        margin: -183px 0 0 34px;
+    }
+    .bac {
+        margin: -2220px 0 0 0;
+    }
+    .btn4 {
+        margin: -465px 0 0 0;
+    }
+    .btn3{
+        margin: -534px  0 0 -67px;
+    }
+    nav .contaner ul {
+        float: left;
+        display: flex;
+        margin: -38px 0 0 439px;
+    }
+    
+   
+
+}
+a:hover{
+    color: blue;
+}
